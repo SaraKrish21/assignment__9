@@ -9,5 +9,5 @@
 
 --In the backend we use the mongodb for database(atlas), cors, express and bcrypt.
 
---The schema is used in User.js. where? 
+--The schema is used in User.js.
 
