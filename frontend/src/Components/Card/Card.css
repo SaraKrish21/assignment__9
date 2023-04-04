@@ -1,0 +1,21 @@
+.Container {
+    margin: 30px auto;
+    border: 2px solid #333;
+    padding: 20px;
+    text-align: center;
+    color: #444;
+    background-color: #f4f4f4;
+}
+
+.Container div {
+    margin-top: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    background-color: #f4f4f4;
+    text-decoration: underline;
+    text-decoration-color: #444;
+    font-size: 2em;
+    color: #444;
+}
